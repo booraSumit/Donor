@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "donor_jwtPrivateKey",
+  "gmail": "donor_gmail",
+  "gmailPassword": "donor_gmailPassword"
+}
